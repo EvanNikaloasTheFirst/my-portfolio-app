@@ -21,7 +21,7 @@ export default function HomePage() {
   ];
 
   return (
-    <div style={{width:"100vw", padding:"20px"}}>
+    <div>
       {/* ✅ NAVBAR */}
       <nav
         style={{
@@ -141,7 +141,7 @@ export default function HomePage() {
     justifyContent: "center",
     alignItems: "center",
     // minHeight: "100vh",
-    marginRight:"40px",
+
     padding: isMobile ? "80px 20px 40px" : "100px 8%",
     backgroundColor: "#fff",
     boxSizing: "border-box",
@@ -571,7 +571,7 @@ export default function HomePage() {
       cursor: "pointer",
       position: "relative",
       zIndex: 2,
-       marginRight:"40px",
+
     }}
   >
     My Mission
@@ -585,7 +585,7 @@ export default function HomePage() {
     margin: "0 auto 60px",
     zIndex: 2,
     position: "relative",
- marginRight:"40px",
+
   }}
 >
   I'm a footballer turned software engineer and content creator.{"\n"}
@@ -607,7 +607,7 @@ export default function HomePage() {
     flexWrap: isMobile ? "wrap" : "nowrap",
     gap: isMobile ? "10px" : "0px",
     margin: "0 auto 60px",
-     marginRight:"40px",
+
     position: "relative",
     padding: isMobile ? "0" : "0 5%",
     overflowX: isMobile ? "auto" : "visible",
@@ -755,7 +755,7 @@ export default function HomePage() {
         fontSize: isMobile ? "30px" : "48px",
         fontWeight: "700",
         marginBottom: "16px",
-         marginRight:"40px",
+
       }}
     >
       Want to work together?
@@ -767,7 +767,7 @@ export default function HomePage() {
         lineHeight: "1.8",
         color: "#333",
         marginBottom: "30px",
-         marginRight:"40px",
+
       }}
     >
       If you’re a brand looking to collaborate — through{" "}
@@ -785,7 +785,7 @@ export default function HomePage() {
         maxWidth: "340px",
         margin: isMobile ? "0 auto" : "0",
         boxShadow: "0 4px 10px rgba(0,0,0,0.05)",
-          mariginRight:"40px"
+
       }}
     >
       <img
@@ -818,7 +818,7 @@ export default function HomePage() {
       maxWidth: "500px",
       width: "85%",
       position:"relative",
-      right:"25px"
+
     }}
   >
     <form
