@@ -195,7 +195,7 @@ export default function HomePage() {
     Hi, I'm
     <span
       style={{
-        color: "#2b4eff",
+        color: "#b1f438",
         transition: "color 0.3s ease",
         marginLeft:"10px"
       }}
@@ -246,12 +246,12 @@ export default function HomePage() {
 >
   <p style={{ margin: 0 }}>
     I’m a{" "}
-    <strong style={{ color: "#2b4eff" }}>
+    <strong style={{ color: "#b1f438" }}>
       Software Engineer & Content Creator
     </strong>{" "}
     helping people{" "}
-    <strong style={{ color: "#2b4eff" }}>break into tech</strong> and{" "}
-    <strong style={{ color: "#2b4eff" }}>build personal brands</strong> that open
+    <strong style={{ color: "#b1f438" }}>break into tech</strong> and{" "}
+    <strong style={{ color: "#b1f438" }}>build personal brands</strong> that open
     doors — especially in an AI-driven world.
   </p>
 </div>
@@ -267,7 +267,7 @@ export default function HomePage() {
     >
       <button
   style={{
-    backgroundColor: "#2b4eff",
+    backgroundColor: "#b1f438",
     color: "#fff",
     border: "none",
     padding: "10px 22px",
@@ -479,7 +479,7 @@ export default function HomePage() {
                 href="https://linkedin.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ color: "#0A66C2", textDecoration: "none" }}
+                style={{ color: "#b1f438", textDecoration: "none" }}
               >
                 💼 LinkedIn
               </a>
@@ -678,7 +678,7 @@ export default function HomePage() {
     width: "55px",
     height: "55px",
     borderRadius: "50%",
-    backgroundColor: "#2b4eff",
+    backgroundColor: "#b1f438",
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
@@ -739,7 +739,7 @@ export default function HomePage() {
       style={{
         background: "#f2f2f2",
         border: "none",
-        padding: "6px 14px",
+        padding: "6px 21px",
         borderRadius: "20px",
         fontWeight: "600",
         fontSize: "14px",
@@ -935,7 +935,7 @@ export default function HomePage() {
       <button
         type="submit"
         style={{
-          backgroundColor: "#2b4eff",
+          backgroundColor: "#b1f438",
           color: "#fff",
           border: "none",
           padding: "12px 22px",
