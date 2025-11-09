@@ -142,7 +142,7 @@ export default function HomePage() {
     justifyContent: "center",
     alignItems: "center",
     // minHeight: "100vh",
-
+    marginTop:"50px",
     padding: isMobile ? "80px 20px 40px" : "100px 8%",
     backgroundColor: "#fff",
     boxSizing: "border-box",
