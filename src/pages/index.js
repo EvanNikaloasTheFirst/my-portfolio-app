@@ -37,6 +37,7 @@ export default function HomePage() {
           padding: "16px 10%",
           zIndex: 1000,
           boxSizing: "border-box",
+          marginBottom:"100px"
         }}
       >
          <div
@@ -93,7 +94,7 @@ export default function HomePage() {
                 cursor: "pointer",
               }}
             >
-              ☰
+            <img src="/images/folder.png" style={{width:"35px"}}/> 
             </button>
 
             {menuOpen && (
