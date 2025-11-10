@@ -461,7 +461,7 @@ export default function HomePage() {
               }}
             >
               <a
-                href="https://youtube.com"
+                href="https://www.youtube.com/@ev_codes"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "#ff0000", textDecoration: "none" }}
@@ -469,7 +469,7 @@ export default function HomePage() {
                 🎥 YouTube
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/ev.codes/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "#E1306C", textDecoration: "none" }}
@@ -477,7 +477,7 @@ export default function HomePage() {
                 📸 Instagram
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/evangelos-nikoloas-empochontsif/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: "#b1f438", textDecoration: "none" }}
@@ -485,7 +485,7 @@ export default function HomePage() {
                 💼 LinkedIn
               </a>
               <a
-                href="mailto:evangelos@email.com"
+                href="mailto:evangeloscodes@gmail.com"
                 style={{ color: "#333", textDecoration: "none" }}
               >
                 ✉️ Email Me
